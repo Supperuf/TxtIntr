@@ -1,0 +1,11 @@
+calculator
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.log
+*.tmp
+.DS_Store
